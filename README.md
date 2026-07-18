@@ -1,5 +1,3 @@
-# claude-open-tools
-Open-source tools, utilities and resources for Claude AI and Claude Code
 # Claude Open Tools
 
 Open-source tools, utilities, prompts and resources for **Claude AI** and **Claude Code**.
@@ -21,5 +19,23 @@ This project aims to make Claude more accessible and powerful for developers by 
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/claude-open-tools.git
+git clone https://github.com/g59fmtkjjn-wq//claude-open-tools.git
 cd claude-open-tools
+Roadmap (Next 6 months)
+
+Improve prompt library
+Create CLI utilities
+Add advanced agent examples
+Better documentation
+Community contributions
+
+Contributing
+Contributions are welcome! Feel free to open issues or pull requests.
+License
+MIT License
+
+Made with ❤️ for the Claude community.
+text---
+
+### Prochaines étapes (fais ça vite) :
+
